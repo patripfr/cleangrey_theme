@@ -1,15 +1,15 @@
 {
-  "name": "paddy-ui",
+  "name": "cleangrey-ui",
   "theme": "ui",
   "version": "1.12.5",
-  "description": "Atom One dark UI theme",
+  "description": "Atom clean grey theme",
   "keywords": [
-    "dark",
+    "grey",
     "adaptive",
     "ui"
   ],
   "license": "MIT",
-  "repository": "https://github.com/atom/one-dark-ui",
+  "repository": "https://github.com/patripfr/cleangrey_theme",
   "main": "lib/main",
   "engines": {
     "atom": ">0.40.0"
